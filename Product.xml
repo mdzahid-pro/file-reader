@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <name>Apple</name>
+    <code>P001</code>
+    <price>200</price>
+    <exp_date>9/10/2018</exp_date>
+  </row>
+  <row>
+    <name>Banana</name>
+    <code>P002</code>
+    <price>100</price>
+    <exp_date>9/10/2018</exp_date>
+  </row>
+  <row>
+    <name>Orange</name>
+    <code>P003</code>
+    <price>300</price>
+    <exp_date>9/10/2018</exp_date>
+  </row>
+</root>

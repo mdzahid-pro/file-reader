@@ -1,0 +1,4 @@
+name	code	price	exp_date
+Apple	P001	200	9/10/2018
+Banana	P002	100	9/10/2018
+Orange	P003	300	9/10/2018
